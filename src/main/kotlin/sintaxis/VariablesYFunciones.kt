@@ -1,3 +1,5 @@
+package sintaxis
+
 /**
  * Variables "val -> valor no puedes reasignar valor  var -> variable esta si que se puede"
  */

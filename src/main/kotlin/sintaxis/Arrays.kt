@@ -1,3 +1,5 @@
+package sintaxis
+
 fun main() {
     // Indice  0-6
     // Tamaño 7

@@ -1,4 +1,4 @@
-
+package sintaxis
 fun main() {
     result(true)
     result(34)
